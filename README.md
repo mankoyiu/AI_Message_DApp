@@ -2,7 +2,7 @@ Blockchain Message App
 
 A full-stack DApp that lets users send and update a message on the Ethereum blockchain and interact with an AI assistant. Built with a Next.js frontend, a Koa backend (with OpenAI integration), and a Solidity smart contract deployed via Hardhat.
 
-
+Demo: https://youtu.be/vG-1X1SKqxw
 
 Table of Contents
 1. [Project Structure](project-structure)
