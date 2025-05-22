@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 // Initialize OpenAI client
 const openai = new OpenAI({
-    apiKey: "sk-22f2351dc5834c08ab340c4c9e4feea2",
+    apiKey: "sk-XXXXXXXXX",
     baseURL: "https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
 });
 // Path to the conversation log file
